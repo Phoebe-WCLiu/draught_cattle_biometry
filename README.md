@@ -43,8 +43,8 @@ To get started with the analysis and reproduce the results from the paper, follo
 
 4. **Run `04_Classification.R`** to classify new archaeological data.  
    - This script is designed for classifying new archaeological data and requires specific measurements to produce **Figure 9**.  
-     - **Metacarpal**: `e`, `D1`, `f`, `D4`  
-     - **Metatarsal**: `e`, `D1`, `f`, `D4` *or* `Bd`, `GL`, `f`, `D4`  
+     - **Metacarpal**: `e`, `1 (D1)`, `f`, `4 (D4)`  
+     - **Metatarsal**: `e`, `1 (D1)`, `f`, `4 (D4)` *or* `Bd`, `GL`, `f`, `4 (D4)`  
      - **First phalanx**: `Bp`, `Dp`, `Bd`, `GLpe`  
      - **Second phalanx**: `Bp`, `Bd`, `GLpe`  
 

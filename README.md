@@ -1,9 +1,5 @@
 # Data and R codes for: In search of draught cattle: An identification method
 
-
-### Phoebe Liu, Lenny Salvagno, Benjamin Wimmer, Umberto Albarella
-E-mail addresses: wcliu1@sheffield.ac.uk (P. Liu), l.salvagno@sheffield.ac.uk (L. Salvagno), bwimmer1@sheffield.ac.uk (B. Wimmer), u.albarella@sheffield.ac.uk (U. Albarella)
-
 ##  Biometry data on modern cattle
 
 

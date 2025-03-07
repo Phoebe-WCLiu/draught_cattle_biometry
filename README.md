@@ -4,8 +4,10 @@
 ### Phoebe Liu, Lenny Salvagno, Benjamin Wimmer, Umberto Albarella
 E-mail addresses: wcliu1@sheffield.ac.uk (P. Liu), l.salvagno@sheffield.ac.uk (L. Salvagno), bwimmer1@sheffield.ac.uk (B. Wimmer), u.albarella@sheffield.ac.uk (U. Albarella)
 
-## Repository Structure
-1) Data: Biometry data on modern cattle
+##  Biometry data on modern cattle
+
+
+`Raw_data.csv` is the raw measurement file with cattle information.
 The data of the Romanian Grey and Brown draught and non-draught cattle are adopted from Bartosiewicz et al., 1997 and Lin et al., 2016.
 See Table S2 for the measurement abbreviations.
 
@@ -27,11 +29,11 @@ The `PCA` folder contains the following data files used PCA analyses:
 ## R Code Files
 
 The `R_codes` folder contains the following R scripts used for different parts of the analysis:
-
 - **`01_Table.R`**: Performs the statistical analyses presented in the tables.
 - **`02_PCA.R`**: Conducts principal component analysis (PCA).
 - **`03_Figure.R`**: Creates the figures used in the paper.
 - **`04_Classification.R`**: Classifies new archaeological data based on the study's models.
+
 
 ## Getting Started
 
@@ -43,4 +45,11 @@ To get started with the analysis and reproduce the results from the paper, follo
 
 3. **Run `03_Figure.R`**: This script generates the figures that are included in the paper. 
 
+4. **Run `04_Classification.R`** to classify new archaeological data.  
+   - This script is designed for classifying new archaeological data and requires specific measurements to produce **Figure 9**.  
+     - **Metacarpal**: `e`, `D1`, `f`, `D4`  
+     - **Metatarsal**: `e`, `D1`, `f`, `D4` *or* `Bd`, `GL`, `f`, `D4`  
+     - **First phalanx**: `Bp`, `Dp`, `Bd`, `GLpe`  
+     - **Second phalanx**: `Bp`, `Bd`, `GLpe`  
 
+   **Note**: Before running this script, update the placeholder filename (`your_file.csv`) in the script with the actual name of your data file.  

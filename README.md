@@ -11,12 +11,14 @@ See Table S2 for the measurement abbreviations.
 
 
 ## Data Files for Producing Table and Figures
+The `table and figure` folder contains the following data files used for generating the table and figure:
 - `Metacarpal.csv`
 - `Metatarsal.csv`
 - `First_phalanx.csv`
 - `Second_phalanx.csv`
 
 ## Data Files for Principal Component Analysis (PCA)
+The `PCA` folder contains the following data files used PCA analyses:
 - `Metacarpal_PCA.csv`
 - `Metatarsal_PCA.csv`
 - `First_phalanx_PCA.csv`

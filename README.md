@@ -1,5 +1,11 @@
 # Data and R codes for: In search of draught cattle: An identification method
 
+## Repository
+http://doi.org/10.17632/7722hz4z4x
+
+https://github.com/Phoebe-WCLiu/draught_cattle_biometry
+
+
 ##  Biometry data on modern cattle
 
 

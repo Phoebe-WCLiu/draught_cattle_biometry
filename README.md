@@ -1,5 +1,9 @@
 # Data and R codes for: In search of draught cattle: An identification method
 
+This repository contains data and R scripts for the following paper:
+
+
+
 ## Repository
 http://doi.org/10.17632/7722hz4z4x
 

@@ -1,6 +1,7 @@
 # Data and R codes for: In search of draught cattle: An identification method
 
 This repository contains data and R scripts for the following paper:
+Liu P, Salvagno L, Wimmer B, Albarella U (2025) In search of draught cattle: An identification method. Journal of Archaeological Science 179:106229. https://doi.org/10.1016/j.jas.2025.106229
 
 
 
